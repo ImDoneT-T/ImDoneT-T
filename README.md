@@ -24,8 +24,7 @@
 │  INSTITUTE  : IIIT GUWAHATI                              │
 │  FOCUS      : AI/ML | SOFTWARE | EMBEDDED SYSTEMS        │
 │  STATUS     : BUILDING & LEARNING                        │
-│                                                          │
-│  MISSION    : Turn ideas into working systems.           │
+│  MISSION    : Turn ideas into reality.                   │
 └──────────────────────────────────────────────────────────┘
 ```
 
