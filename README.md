@@ -8,8 +8,8 @@
   <a href="https://github.com/KUNSH-bit">
     <img src="https://img.shields.io/badge/GitHub-KUNSH--bit-161B22?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.linkedin.com/in/kunsh-agarwal-bb3392416?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/kunsh-agarwal-bb3392416/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
@@ -34,10 +34,6 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KUNSH-bit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Statistics" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KUNSH-bit&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KUNSH-bit&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph" />
 </p>
 
 ## `03 / TECHNOLOGY STACK`
@@ -133,7 +129,7 @@ Offline-first athlete discovery and performance platform developed for SIH.
 
 `EXPERIMENTS` `PROTOTYPES`
 
-Exploring new ideas across artificial intelligence, software and hardware.
+Exploring ideas across artificial intelligence, software and hardware.
 
 **Focus:** Building · Experimenting · Learning
 
@@ -146,15 +142,18 @@ Exploring new ideas across artificial intelligence, software and hardware.
 ## `05 / CONTRIBUTION MAP`
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0D1117/2EA043/KUNSH-bit" width="100%" alt="GitHub Contribution Calendar"/>
+  <img
+    src="https://gh-heat.anishroy.com/api/KUNSH-bit/svg?darkMode=true&bg=0d1117&colors=0d1117,0e4429,006d32,26a641,39d353"
+    width="100%"
+    alt="GitHub Contribution Calendar"
+  />
 </p>
 
 <p align="center">
-<sub>Every contribution is another step forward.</sub>
+  <sub>Every contribution is another step forward.</sub>
 </p>
 
 ---
-
 
 ## `06 / CONNECT`
 
@@ -162,8 +161,8 @@ Exploring new ideas across artificial intelligence, software and hardware.
   <a href="https://github.com/KUNSH-bit">
     <img src="https://img.shields.io/badge/GitHub-KUNSH--bit-161B22?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.linkedin.com/in/kunsh-agarwal-bb3392416?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/kunsh-agarwal-bb3392416/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
