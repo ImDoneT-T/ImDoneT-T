@@ -166,7 +166,7 @@ Exploring ideas across artificial intelligence, software and hardware.
 </p>
 
 <p align="center">
-  <i>Always learning. Always building. Always exploring what's next.</i>
+  <i>Always learning. Always building. Always exploring.</i>
 </p>
 
 <p align="center">
