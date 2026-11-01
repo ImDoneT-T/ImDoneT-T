@@ -163,6 +163,7 @@ Exploring ideas across artificial intelligence, software and hardware.
   <a href="https://www.linkedin.com/in/kunsh-agarwal-bb3392416/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  
 </p>
 
 <p align="center">
@@ -171,4 +172,7 @@ Exploring ideas across artificial intelligence, software and hardware.
 
 <p align="center">
   <sub>Designed & built by KUNSH AGARWAL · 2026</sub>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KUNSH-bit&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </p>
