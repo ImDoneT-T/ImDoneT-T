@@ -47,10 +47,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=opencv,flutter,git,github,vscode,arduino,sklearn&theme=dark" alt="Frameworks and Tools" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-</p>
+
 
 ### Currently Exploring
 
