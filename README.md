@@ -65,34 +65,80 @@
 ## `04 / SELECTED PROJECTS`
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/KUNSH-bit/AI-Gesture-Engine">AI Gesture Engine ↗</a></h3>
-      <p>Python · OpenCV · MediaPipe</p>
-      <p>An offline computer-vision system translating hand gestures into computer commands.</p>
-      <p><b>Focus:</b> Edge AI · Gesture Recognition · Human-Computer Interaction</p>
-    </td>
-    <td width="50%">
-      <h3>ESP32 Chess</h3>
-      <p>ESP32 · C++ · Embedded Systems</p>
-      <p>An embedded chess game combining physical controls, a TFT display and chess logic.</p>
-      <p><b>Focus:</b> Embedded Development · Hardware Integration</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>GaonKhiladi</h3>
-      <p>Flutter · Dart</p>
-      <p>An offline-first athlete discovery and performance platform developed for SIH.</p>
-      <p><b>Focus:</b> Mobile Development · Sports Technology</p>
-    </td>
-    <td width="50%">
-      <h3>More in Development</h3>
-      <p>Experiments · Prototypes</p>
-      <p>Exploring ideas across software, hardware and artificial intelligence.</p>
-      <p><b>Focus:</b> Building · Experimenting · Learning</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/KUNSH-bit/AI-Gesture-Engine">
+<img src="https://placehold.co/600x300/0D1117/58A6FF?text=AI+GESTURE+ENGINE" width="100%" alt="AI Gesture Engine"/>
+</a>
+
+### AI Gesture Engine
+
+`PYTHON` `OPENCV` `MEDIAPIPE`
+
+Offline computer vision system that translates hand gestures into computer commands.
+
+**Focus:** Edge AI · Gesture Recognition · HCI
+
+<a href="https://github.com/KUNSH-bit/AI-Gesture-Engine">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="YOUR_ESP32_CHESS_REPO">
+<img src="https://placehold.co/600x300/0D1117/3FB950?text=ESP32+CHESS" width="100%" alt="ESP32 Chess"/>
+</a>
+
+### ESP32 Chess
+
+`ESP32` `C++` `EMBEDDED`
+
+An embedded chess game combining physical controls, a TFT display and chess logic.
+
+**Focus:** Embedded Development · Hardware Integration
+
+<a href="YOUR_ESP32_CHESS_REPO">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="YOUR_GAONKHILADI_REPO">
+<img src="https://placehold.co/600x300/0D1117/58A6FF?text=GAONKHILADI" width="100%" alt="GaonKhiladi"/>
+</a>
+
+### GaonKhiladi
+
+`FLUTTER` `DART`
+
+Offline-first athlete discovery and performance platform developed for SIH.
+
+**Focus:** Mobile Development · Sports Technology
+
+<a href="YOUR_GAONKHILADI_REPO">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x300/0D1117/8B949E?text=MORE+COMING+SOON" width="100%" alt="More projects coming soon"/>
+
+### More in Development
+
+`EXPERIMENTS` `PROTOTYPES`
+
+Exploring new ideas across artificial intelligence, software and hardware.
+
+**Focus:** Building · Experimenting · Learning
+
+</td>
+</tr>
 </table>
 
 ---
@@ -100,10 +146,15 @@
 ## `05 / CONTRIBUTION MAP`
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/KUNSH-bit" width="100%" alt="GitHub Contribution Calendar" />
+<img src="https://ghchart.rshah.org/KUNSH-bit" width="100%" alt="GitHub Contributions"/>
+</p>
+
+<p align="center">
+<sub>Every contribution is another step forward.</sub>
 </p>
 
 ---
+
 
 ## `06 / CONNECT`
 
