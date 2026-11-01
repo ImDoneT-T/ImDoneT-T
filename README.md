@@ -31,7 +31,6 @@
 ## `02 / ACTIVITY MONITOR`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KUNSH-bit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Statistics" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KUNSH-bit&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
