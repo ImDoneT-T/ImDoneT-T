@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-KUNSH--bit-161B22?style=for-the-badge&logo=github" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.linkedin.com/in/kunsh-agarwal-bb3392416/&logo=linkedin" />
+    <img src="https://www.linkedin.com/in/kunsh-agarwal-bb3392416?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
@@ -163,7 +163,7 @@ Exploring new ideas across artificial intelligence, software and hardware.
     <img src="https://img.shields.io/badge/GitHub-KUNSH--bit-161B22?style=for-the-badge&logo=github" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.linkedin.com/in/kunsh-agarwal-bb3392416/&logo=linkedin" />
+    <img src="https://www.linkedin.com/in/kunsh-agarwal-bb3392416?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
