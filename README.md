@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-KUNSH--bit-161B22?style=for-the-badge&logo=github" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://www.linkedin.com/in/kunsh-agarwal-bb3392416/&logo=linkedin" />
   </a>
 </p>
 
@@ -146,7 +146,7 @@ Exploring new ideas across artificial intelligence, software and hardware.
 ## `05 / CONTRIBUTION MAP`
 
 <p align="center">
-<img src="https://ghchart.rshah.org/KUNSH-bit" width="100%" alt="GitHub Contributions"/>
+  <img src="https://ghchart.rshah.org/0D1117/2EA043/KUNSH-bit" width="100%" alt="GitHub Contribution Calendar"/>
 </p>
 
 <p align="center">
@@ -163,7 +163,7 @@ Exploring new ideas across artificial intelligence, software and hardware.
     <img src="https://img.shields.io/badge/GitHub-KUNSH--bit-161B22?style=for-the-badge&logo=github" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://www.linkedin.com/in/kunsh-agarwal-bb3392416/&logo=linkedin" />
   </a>
 </p>
 
