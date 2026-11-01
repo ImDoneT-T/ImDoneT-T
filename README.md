@@ -45,7 +45,7 @@
 ### Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,flutter,git,github,vscode,arduino,linux&theme=dark" alt="Frameworks and Tools" />
+  <img src="https://skillicons.dev/icons?i=opencv,flutter,git,github,vscode,arduino,numpy,sklearn,matplotlib&theme=dark" alt="Frameworks and Tools" />
 </p>
 
 ### Currently Exploring
